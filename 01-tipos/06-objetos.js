@@ -7,6 +7,7 @@ let personaje = {
     edad: 16,
 
 };
+//formas de llamar al objetogi
 console.log(personaje);
 console.log(personaje.nombre);
 console.log(personaje['anime']);
